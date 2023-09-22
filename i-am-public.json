@@ -62,7 +62,7 @@
       {
         "datasource": {
           "type": "prometheus",
-          "uid": "${DS_PROMETHEUS}"
+          "uid": "DS_Workspace_Metrics"
         },
         "fieldConfig": {
           "defaults": {
@@ -139,7 +139,7 @@
           {
             "datasource": {
               "type": "prometheus",
-              "uid": "${DS_PROMETHEUS}"
+              "uid": "DS_Workspace_Metrics"
             },
             "refId": "A"
           }
@@ -164,7 +164,7 @@
       "time_options": []
     },
     "timezone": "browser",
-    "title": "Simple Dashboard",
+    "title": "Dashboard Source Is Public",
     "uid": "10605d5d-da66-4bb0-a77a-2635fae239f7",
     "version": 3,
     "weekStart": ""
