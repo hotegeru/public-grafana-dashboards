@@ -101,7 +101,7 @@
   "panels": [
     {
       "collapsed": false,
-      "datasource": "${DS_Workspace_Metrics}",
+      "datasource": "DS_Workspace_Metrics",
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -115,7 +115,7 @@
     },
     {
       "cacheTimeout": null,
-      "datasource": "${DS_Workspace_Metrics}",
+      "datasource": "DS_Workspace_Metrics",
       "fieldConfig": {
         "defaults": {
           "decimals": 1,
@@ -201,7 +201,7 @@
     },
     {
       "cacheTimeout": null,
-      "datasource": "${DS_Workspace_Metrics}",
+      "datasource": "DS_Workspace_Metrics",
       "fieldConfig": {
         "defaults": {
           "decimals": 1,
@@ -282,7 +282,7 @@
       "type": "bargauge"
     },
     {
-      "datasource": "${DS_Workspace_Metrics}",
+      "datasource": "DS_Workspace_Metrics",
       "description": " Memory Request Rate ， container POD core ， container POD disk ",
       "fieldConfig": {
         "defaults": {
@@ -363,7 +363,7 @@
       "type": "bargauge"
     },
     {
-      "datasource": "${DS_Workspace_Metrics}",
+      "datasource": "DS_Workspace_Metrics",
       "fieldConfig": {
         "defaults": {
           "custom": {
@@ -574,7 +574,7 @@
       "bars": false,
       "dashLength": 10,
       "dashes": false,
-      "datasource": "${DS_Workspace_Metrics}",
+      "datasource": "DS_Workspace_Metrics",
       "decimals": 2,
       "editable": true,
       "error": false,
@@ -696,7 +696,7 @@
       }
     },
     {
-      "datasource": "${DS_Workspace_Metrics}",
+      "datasource": "DS_Workspace_Metrics",
       "fieldConfig": {
         "defaults": {
           "decimals": 1,
@@ -785,7 +785,7 @@
       "type": "bargauge"
     },
     {
-      "datasource": "${DS_Workspace_Metrics}",
+      "datasource": "DS_Workspace_Metrics",
       "fieldConfig": {
         "defaults": {
           "decimals": 1,
@@ -874,7 +874,7 @@
       "type": "bargauge"
     },
     {
-      "datasource": "${DS_Workspace_Metrics}",
+      "datasource": "DS_Workspace_Metrics",
       "fieldConfig": {
         "defaults": {
           "decimals": 2,
@@ -993,7 +993,7 @@
       "type": "bargauge"
     },
     {
-      "datasource": "${DS_Workspace_Metrics}",
+      "datasource": "DS_Workspace_Metrics",
       "fieldConfig": {
         "defaults": {
           "color": {
@@ -1739,7 +1739,7 @@
       "bars": false,
       "dashLength": 10,
       "dashes": false,
-      "datasource": "${DS_Workspace_Metrics}",
+      "datasource": "DS_Workspace_Metrics",
       "fieldConfig": {
         "defaults": {},
         "overrides": []
@@ -1847,7 +1847,7 @@
       "bars": false,
       "dashLength": 10,
       "dashes": false,
-      "datasource": "${DS_Workspace_Metrics}",
+      "datasource": "DS_Workspace_Metrics",
       "fieldConfig": {
         "defaults": {},
         "overrides": []
@@ -1951,7 +1951,7 @@
       "bars": false,
       "dashLength": 10,
       "dashes": false,
-      "datasource": "${DS_Workspace_Metrics}",
+      "datasource": "DS_Workspace_Metrics",
       "decimals": 2,
       "editable": true,
       "error": false,
@@ -2072,7 +2072,7 @@
     },
     {
       "collapsed": true,
-      "datasource": "${DS_Workspace_Metrics}",
+      "datasource": "DS_Workspace_Metrics",
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -2082,7 +2082,7 @@
       "id": 61,
       "panels": [
         {
-          "datasource": "${DS_Workspace_Metrics}",
+          "datasource": "DS_Workspace_Metrics",
           "fieldConfig": {
             "defaults": {
               "color": {
@@ -2615,7 +2615,7 @@
           "bars": false,
           "dashLength": 10,
           "dashes": false,
-          "datasource": "${DS_Workspace_Metrics}",
+          "datasource": "DS_Workspace_Metrics",
           "decimals": 3,
           "editable": true,
           "error": false,
@@ -2732,7 +2732,7 @@
           "bars": false,
           "dashLength": 10,
           "dashes": false,
-          "datasource": "${DS_Workspace_Metrics}",
+          "datasource": "DS_Workspace_Metrics",
           "decimals": 2,
           "editable": true,
           "error": false,
@@ -2856,7 +2856,7 @@
           "bars": false,
           "dashLength": 10,
           "dashes": false,
-          "datasource": "${DS_Workspace_Metrics}",
+          "datasource": "DS_Workspace_Metrics",
           "decimals": 2,
           "editable": true,
           "error": false,
@@ -3001,7 +3001,7 @@
     },
     {
       "collapsed": true,
-      "datasource": "${DS_Workspace_Metrics}",
+      "datasource": "DS_Workspace_Metrics",
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -3011,7 +3011,7 @@
       "id": 49,
       "panels": [
         {
-          "datasource": "${DS_Workspace_Metrics}",
+          "datasource": "DS_Workspace_Metrics",
           "fieldConfig": {
             "defaults": {
               "color": {
@@ -3704,7 +3704,7 @@
           "bars": false,
           "dashLength": 10,
           "dashes": false,
-          "datasource": "${DS_Workspace_Metrics}",
+          "datasource": "DS_Workspace_Metrics",
           "decimals": 2,
           "editable": true,
           "error": false,
@@ -3822,7 +3822,7 @@
           "bars": false,
           "dashLength": 10,
           "dashes": false,
-          "datasource": "${DS_Workspace_Metrics}",
+          "datasource": "DS_Workspace_Metrics",
           "decimals": 2,
           "editable": true,
           "error": false,
@@ -3959,7 +3959,7 @@
           "bars": false,
           "dashLength": 10,
           "dashes": false,
-          "datasource": "${DS_Workspace_Metrics}",
+          "datasource": "DS_Workspace_Metrics",
           "decimals": 2,
           "editable": true,
           "error": false,
@@ -4116,7 +4116,7 @@
       {
         "allValue": "",
         "current": {},
-        "datasource": "${DS_Workspace_Metrics}",
+        "datasource": "DS_Workspace_Metrics",
         "definition": "label_values(origin_prometheus)",
         "description": null,
         "error": null,
@@ -4143,7 +4143,7 @@
       {
         "allValue": "",
         "current": {},
-        "datasource": "${DS_Workspace_Metrics}",
+        "datasource": "DS_Workspace_Metrics",
         "definition": "label_values(kube_node_info{origin_prometheus=~\"$origin_prometheus\"},node)",
         "description": null,
         "error": null,
@@ -4170,7 +4170,7 @@
       {
         "allValue": "",
         "current": {},
-        "datasource": "${DS_Workspace_Metrics}",
+        "datasource": "DS_Workspace_Metrics",
         "definition": "label_values(kube_namespace_labels{origin_prometheus=~\"$origin_prometheus\"},namespace)",
         "description": null,
         "error": null,
@@ -4197,7 +4197,7 @@
       {
         "allValue": ".*",
         "current": {},
-        "datasource": "${DS_Workspace_Metrics}",
+        "datasource": "DS_Workspace_Metrics",
         "definition": "label_values(kube_pod_container_info{origin_prometheus=~\"$origin_prometheus\",namespace=~\"$NameSpace\"},container)",
         "description": null,
         "error": null,
@@ -4224,7 +4224,7 @@
       {
         "allValue": ".*",
         "current": {},
-        "datasource": "${DS_Workspace_Metrics}",
+        "datasource": "DS_Workspace_Metrics",
         "definition": "label_values(kube_pod_container_info{origin_prometheus=~\"$origin_prometheus\",namespace=~\"$NameSpace\",container=~\"$Container\"},pod)",
         "description": null,
         "error": null,
